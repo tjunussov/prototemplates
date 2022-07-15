@@ -1,11 +1,10 @@
 # PROTO APP Templates
-Collection of UI Application mockups found on google internet, 
+Collection of UI Application mockups found by googling internet, 
 
-
-## FIGMA Layout KIT
+## FIGMA KIT
 - todo: Convert mockups to FIGMA KIT
 
-## WIREFRAME KITS
+## Wireframe KITS
 - iOS Wireframing Kit for iPhone 12
 - Sections Kit
 - Tuxo Web
@@ -13,9 +12,12 @@ Collection of UI Application mockups found on google internet,
 - iOS Wireframing Kit for iPhone 8
 - Baseframe Material UI Kit
 
-## Example
-![Onboarding Tour](https://github.com/tjunussov/prototemplates/tios-12-wireframing/onboarding/onboarding-tour-1/icon.png)
-Or see full online [https://tjunussov.github.io/prototemplates](DEMO)
+## Demo and Example
+See [Online DEMO](https://tjunussov.github.io/prototemplates)
+
+![Onboarding Tour](https://raw.githubusercontent.com/tjunussov/prototemplates/master/tios-12-wireframing/onboarding/onboarding-tour-2/icon.png)
+![Social Feed Sharing](https://tjunussov.github.io/prototemplates/tios-12-wireframing/feeds/social-feed-sharing-music/icon.png)
+![Esitmated Delivery](https://tjunussov.github.io/prototemplates/tios-12-wireframing/shopping-payments-and-checkout/products-listing-and-estimated-delivery-1/icon.png)
 
 ## CATEGORIES
 - All
@@ -51,6 +53,4 @@ Or see full online [https://tjunussov.github.io/prototemplates](DEMO)
 ## XML Files
 - You could transform all mockups to structured data
 - todo: Make transformer to FIGMA SVG
-
-
 
